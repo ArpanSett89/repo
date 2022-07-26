@@ -1,0 +1,4 @@
+ filter=lfs diff=lfs merge=lfs -text
+Short[[:space:]]Stories[[:space:]]for[[:space:]]Students_[[:space:]]Presenting[[:space:]]Analysis,[[:space:]]Context[[:space:]]and[[:space:]]Criticism[[:space:]]on[[:space:]]Commonly[[:space:]]Studied[[:space:]]Short[[:space:]]Stories[[:space:]](Short[[:space:]]Stories[[:space:]]for[[:space:]]Students,[[:space:]]Vol[[:space:]]12)[[:space:]]([[:space:]]PDFDrive[[:space:]]).pdf filter=lfs diff=lfs merge=lfs -text
+C:/Users/CBNITS-23/Downloads/FanEx[[:space:]]Function.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
